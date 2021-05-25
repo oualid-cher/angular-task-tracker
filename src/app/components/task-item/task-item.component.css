@@ -1,0 +1,7 @@
+.task-class {
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.287);
+    border-radius: 10px;
+    width: 60%;
+}
