@@ -1,7 +1,12 @@
 .task-class {
     margin: 10px auto;
     padding: 10px;
-    background-color: rgba(128, 128, 128, 0.287);
+    background-color: rgba(128, 128, 128, 0.144);
     border-radius: 10px;
     width: 60%;
+    cursor: pointer;
+}
+
+.del-btn {
+    float: right;
 }
