@@ -10,3 +10,7 @@
 .del-btn {
     float: right;
 }
+
+.reminder {
+    border-left: 10px solid green;
+}
