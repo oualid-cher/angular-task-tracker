@@ -1,0 +1,14 @@
+.about {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
