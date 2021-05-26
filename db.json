@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Interview with someone",
       "day": "May 27 at 10:00am",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Dinner with someone",
       "day": "May 27 at 10:00pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
@@ -28,7 +28,7 @@
       "id": 5,
       "text": "Task To Delete",
       "day": "May 28 at 10:00am",
-      "reminder": false
+      "reminder": true
     }
   ]
 }

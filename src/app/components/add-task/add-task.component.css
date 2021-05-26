@@ -1,0 +1,28 @@
+form {
+    background-color: rgba(173, 216, 230, 0.438);
+    width: 50%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    line-height: 2;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+}
+
+.form-control-reminder {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#text {
+    width: 50%;
+}
